@@ -11,6 +11,9 @@
 │   └── マインクラフトのログデータを入れてください
 ├── stats
 │   └── マイクラのstatsの中身を入れてください
+├── entity_data
+│   ├── enemy # 敵モブのエンティティIDが記載
+│   └── friend # 友好モブのエンティティIDが記載
 └── ex_data
     └── plan_users.csv # planのplan_usersというテーブルのcsvデータを入れてください
 ```
