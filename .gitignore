@@ -1,0 +1,9 @@
+/logs/*
+!/logs/.gitkeep
+/ex_datas/*
+!/ex_datas/.gitkeep
+/output/*
+!/output/.gitkeep
+/stats/*
+!/stats/.gitkeep
+```
